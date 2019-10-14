@@ -1,4 +1,4 @@
-# PyRenderer
+# py-renderer
 A simple python renderer.
 
 We will be basing the renderer of the steps in
